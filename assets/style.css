@@ -144,9 +144,9 @@ hr {
 
 .card-header img {
     position: relative;
-    width: 100%;
+    width: 75%;
     top: 0;
-    left: -25px;
+    left: 0;
 }
 
 .card-header .mask {
